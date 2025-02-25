@@ -9,7 +9,7 @@ export class pokeApiAdapter{
         return(data)
     }
 
-    //Actualizar los datos url - data
+    //Actualizar los datos url - data - Ejemplo
     async patch(url:string, data:string){
         
     }
